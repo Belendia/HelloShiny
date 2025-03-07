@@ -1,0 +1,15 @@
+# Ignore R project files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# Ignore data or other files that are not necessary in the image
+# data/
+
+# Ignore temporary files or IDE files
+.vscode/
+.idea/
+*.log
+*.swp
+.DS_Store
